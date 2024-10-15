@@ -1,7 +1,6 @@
 # Pizzamama - Projet de site de pizzeria
 
-Ce projet a été réalisé, en octobre 2024, dans le cadre de la formation **"Développeur Python | Formation Complète 2024"** proposée sur 
-[Udemy](https://www.udemy.com).
+Ce projet a été réalisé, en octobre 2024, dans le cadre de la formation **"Développeur Python | Formation Complète 2024"** proposée par [Jonathan ROUX](https://codeavecjonathan.com/formations.html)sur [Udemy](https://www.udemy.com).
 
 ## Description
 
