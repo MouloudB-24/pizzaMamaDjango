@@ -1,0 +1,26 @@
+body {
+    background: url('images/main_background.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.menu-link {
+    color: red;
+    margin-top: 30px;
+    text-decoration: none;
+    font-size: 20px
+}
+
+.menu-link:hover {
+    text-decoration: underline;
+}
+
