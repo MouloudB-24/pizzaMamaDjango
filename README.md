@@ -17,7 +17,7 @@ les compétences acquises durant la formation, en particulier l'utilisation du f
 - **Django** : Framework backend utilisé pour la gestion des fonctionnalités du site.
 - **HTML** : Langage de balisage pour la structure des pages.
 - **CSS** : Styles pour rendre le site plus attractif visuellement.
-- **sqlite3** : Stocker les données sur les pizzas. 
+- **Sqlite3** : Stocker les données des pizzas. 
 
 Le site est accessible à l'adresse suivante :  
 https://mouloudbellilpizzamama.pythonanywhere.com
